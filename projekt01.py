@@ -15,7 +15,10 @@ print(1 // 2)
 
 
 
-zmienna = "wartosc"
-print(type(zmienna))
-zmienna=1
-print(type(zmienna))
+# zmienna = "wartosc"
+# print(type(zmienna))
+# zmienna=1AAnt(type(zmienna))
+# zmienna=1AAnt(type(zmienna))
+# zmienna=1AAnt(type(zmienna))
+# zmienna=1AAnt(type(zmienna))
+# zmienna=1AAnt(type(zmienna))
