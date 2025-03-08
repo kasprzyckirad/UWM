@@ -11,7 +11,7 @@ print(1 * 2)
 # operator dzielenia z resztą
 print(1 / 2)
 # operator dzielenia bez reszty (dzielenie całkowite)
-print(1 // 2)
+print(1 // 2)sfsff
 
 
 
