@@ -14,7 +14,7 @@ print(1 / 2)
 print(1 // 2)sfsff
 
 
-
+cxcxvxv
 # zmienna = "wartosc"
 # print(type(zmienna))
 # zmienna=1AAnt(type(zmienna))
